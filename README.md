@@ -22,4 +22,10 @@ Yazılım dünyasında **Python** ile sağlam bir temel attım ve sertifikamı a
 </div>
 
 ---
+### 🎓 Eğitim ve Sertifikalar
+
+| Sertifika / Eğitim Adı | Kurum | Tarih | Belge |
+| :--- | :--- | :--- | :--- |
+| **Python: Yeni Başlayanlar İçin Python Programı** | BTK Akademi | 2025 | [Görüntüle](./sertifikalar/py_belge.png) |
+
 
