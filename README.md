@@ -55,4 +55,4 @@ Yazılım dünyasında **Python** ile sağlam bir temel attım. Şu anda Sivas C
 ### 📫 Benimle İletişime Geç
 
 - **LinkedIn:** [Batın Şahan Şener](https://www.linkedin.com/in/batın-şahan-şener-2764613aa/)
-- **E-posta:** (Buraya e-postanı ekleyebilirsin)
+- **E-posta:** (senersahan30@icloud.com)
